@@ -22,7 +22,6 @@ Origin
 Pragma
 DNT
 Cache-Control
-
 X-Att-Deviceid
 X-ATT-DeviceId
 X-Correlation-ID
